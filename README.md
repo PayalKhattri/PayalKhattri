@@ -1,3 +1,5 @@
+[![MasterHead](https://drive.google.com/file/d/1Ju71lTxhC5VmhCTGHdtrYcNO5QDkH0To/view?usp=sharing)](https://payalkhattri.github.io)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h1 align="center">Hi 👋, I'm Payal Khattri</h1>
 <h3 align="center">Computer geek credited with strong ability to solve complex problems with optimal solutions.</h3>
 
