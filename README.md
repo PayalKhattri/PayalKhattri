@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Payal Khattri</h1>
 <h3 align="center">Computer geek credited with strong ability to solve complex problems with optimal solutions.</h3>
 
+
+- 👨‍💻 You can check out my personal portfolio at [https://payalkhattri.github.io/](https://payalkhattri.github.io/)
+
+
 - 🔭 I’m currently working on [Ontology-Based Information Retrieval using Named Entity Recognition](https://drive.google.com/drive/u/2/folders/1fKnBb2LEtxIxGpKCF9b-dcQtQkL1lF-3)
 
 - 🌱 I’m currently learning **Protege, Semantic Web and Named Entity Recognition**
 
-- 👨‍💻 All of my projects are available at [https://payalkhattri.github.io/](https://payalkhattri.github.io/)
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/payalcs18/articles](https://auth.geeksforgeeks.org/user/payalcs18/articles)
 
