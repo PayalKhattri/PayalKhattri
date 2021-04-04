@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Payal Khattri</h1>
 <h3 align="center">Computer geek credited with strong ability to solve complex problems with optimal solutions</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=payalkhattri&label=Profile%20views&color=0e75b6&style=flat" alt="payalkhattri" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
