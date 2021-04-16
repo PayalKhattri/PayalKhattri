@@ -1,4 +1,4 @@
-<!-- [![MasterHead](banner.png)](https://payalkhattri.github.io) -->
+<!-- [![MasterHead](banner.png)](https://payalkhattri.github.io)  -->
 
 <h1 align="center">Hi 👋, I'm Payal Khattri</h1>
 <h3 align="center">Computer geek credited with strong ability to solve complex problems with optimal solutions</h3>
