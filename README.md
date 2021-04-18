@@ -4,9 +4,9 @@
 <h3 align="center">Computer geek credited with strong ability to solve complex problems with optimal solutions</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
+<!--
 - 👨‍💻 You can check out my personal portfolio at [https://payalkhattri.github.io/](https://payalkhattri.github.io/)
-
+-->
 
 - 🔭 I’m currently working on [Ontology-Based Information Retrieval using Named Entity Recognition](https://drive.google.com/drive/u/2/folders/1fKnBb2LEtxIxGpKCF9b-dcQtQkL1lF-3)
 
