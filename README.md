@@ -8,7 +8,8 @@
 - 👨‍💻 You can check out my personal portfolio at [https://payalkhattri.github.io/](https://payalkhattri.github.io/)
 -->
 
-- 🔭 I’m currently working on [Ontology-Based Information Retrieval using Named Entity Recognition](https://drive.google.com/drive/u/2/folders/1fKnBb2LEtxIxGpKCF9b-dcQtQkL1lF-3)
+- 🔭 I’m currently working on **Ontology-Based Information Retrieval using Named Entity Recognition**
+
 
 - 🌱 I’m currently learning **Protege, Semantic Web and Named Entity Recognition**
 
